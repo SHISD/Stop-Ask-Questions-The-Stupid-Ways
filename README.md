@@ -75,3 +75,4 @@ Stop-Ask-Questions-The-Stupid-Ways
 | 自己 google | 自己 google | 自己 google | 自己 google 了吗 |
 
 ![googleit.png](/images/googleit.png)
+摘自 [ 羽翼城 ](https://github.com/dogfight360/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
